@@ -2,4 +2,4 @@
 GET https://api.hnpwa.com/v0/news/1.json HTTP/1.1
 
 ###
-GET https://api.hnpwa.com/v0/item/@id.json HTTP/1.1
+GET https://api.hnpwa.com/v0/item/36690556.json HTTP/1.1
